@@ -1,0 +1,11 @@
+name,value
+alpha,3.0
+beta,2.0
+gamma,0.2
+iteration_time,5000.0
+dmin,1858.5466600221262
+dmax,75175.74520661478
+no_node,60.0
+no_link,3182.0
+ave_degree,53.03333333333333
+network_density,1.7977401129943502
